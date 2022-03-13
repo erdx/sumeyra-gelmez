@@ -3,6 +3,7 @@
 Created on Wed Feb  9 13:10:59 2022
 
 @author: Sümeyra Nihal GELMEZ
+Perfect
 """
 
 # Stereo ses dosyasında okuyan ve sol ve sağ kanalları çeviren bir program yazın. 
